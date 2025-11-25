@@ -152,6 +152,8 @@ Unlike dangerous bots that get blocked, DVSA AutoBook uses a **sophisticated app
 
 ---
 
+---
+
 ## 📸 Screenshots
 
 <p align="center">
@@ -167,18 +169,17 @@ Unlike dangerous bots that get blocked, DVSA AutoBook uses a **sophisticated app
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-scanning.png" alt="Scanning" width="700">
+  <img src="assets/screenshot-config.png" alt="Configuration" width="700">
   <br>
-  <em>Real-Time Slot Scanning</em>
+  <em>Easy Configuration Settings</em>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-found.png" alt="Slot Found" width="700">
+  <img src="assets/screenshot-scanning.png" alt="Scanning" width="700">
   <br>
-  <em>Slot Found Notification</em>
+  <em>Real-Time Automation in Action</em>
 </p>
 
----
 
 ## 💻 Installation
 
