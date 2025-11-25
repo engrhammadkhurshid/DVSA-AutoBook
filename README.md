@@ -228,7 +228,7 @@ DVSA AutoBook uses **offline license validation**. Your credentials work without
 3. Click **Activate**
 4. ✅ You're ready to go!
 
-> 📧 **Lost your license?** Contact support at engrhammadkhurshid@gmail.com
+> 📧 **Lost your license?** Contact support at engr.hammadkhurshid@gmail.com
 
 ---
 
@@ -256,7 +256,7 @@ DVSA AutoBook uses **offline license validation**. Your credentials work without
 
 ---
 
-<a href="mailto:engrhammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20-%20Single%20License">
+<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20-%20Single%20License">
   <img src="https://img.shields.io/badge/Purchase-Single%20License-1C4A90?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Single License">
 </a>
 
@@ -281,7 +281,7 @@ DVSA AutoBook uses **offline license validation**. Your credentials work without
 
 ---
 
-<a href="mailto:engrhammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20-%20Reseller%20License">
+<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20-%20Reseller%20License">
   <img src="https://img.shields.io/badge/Purchase-Reseller%20License-22c55e?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Reseller License">
 </a>
 
@@ -377,13 +377,13 @@ No. Just download, install, activate, and click Start. It's that simple.
 <tr>
 <td align="center">
   <h3>📧 Email Support</h3>
-  <a href="mailto:engrhammadkhurshid@gmail.com">engrhammadkhurshid@gmail.com</a>
+  <a href="mailto:engr.hammadkhurshid@gmail.com">engr.hammadkhurshid@gmail.com</a>
   <br>
   <em>Response within 24 hours</em>
 </td>
 <td align="center">
   <h3>💬 WhatsApp</h3>
-  <a href="https://wa.me/923001234567">+92 300 1234567</a>
+  <a href="https://wa.me/+923367126719">+92 336 7126719</a>
   <br>
   <em>Real-time support</em>
 </td>
@@ -427,7 +427,7 @@ By using this software, you agree to use it responsibly and in compliance with a
 </p>
 
 <p align="center">
-  <a href="mailto:engrhammadkhurshid@gmail.com">📧 Contact</a> •
+  <a href="mailto:engr.hammadkhurshid@gmail.com">📧 Contact</a> •
   <a href="https://github.com/engrhammadkhurshid">🐙 GitHub</a> •
   <a href="https://linkedin.com/in/engrhammadkhurshid">💼 LinkedIn</a>
 </p>
