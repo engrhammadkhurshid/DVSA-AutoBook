@@ -1,0 +1,16 @@
+# DVSA AutoBook - Release Repository
+# This repo contains ONLY the release files, not source code
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts (these are uploaded as releases, not committed)
+*.dmg
+*.exe
+*.zip
+*.app
+
+# Temp files
+*.log
+*.tmp
