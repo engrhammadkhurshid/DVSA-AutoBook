@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <strong>Three purchase options available: DVSA AutoBook Chrom Extension, DVSA AutoBook Pro GUI, and DVSA AutoBook Prro.</strong>
+</p>
+
+<p align="center">
   <a href="#features">Features</a> •
   <a href="#how-it-works">How It Works</a> •
   <a href="#installation">Installation</a> •
@@ -54,19 +58,40 @@ Booking a UK driving test through the DVSA website is **extremely frustrating**:
 
 **DVSA AutoBook** is an intelligent automation tool that monitors the DVSA booking system and **instantly reserves available slots** — all while mimicking natural human behaviour.
 
+### 🧭 Product Lineup
+
+Choose the version that matches the level of automation you need:
+
+| Product | What It Includes | Price |
+|---------|-------------------|-------|
+| **DVSA AutoBook Chrom Extension** | Slot search and reservation automatically, manual captcha handling, no Error 15 handling | **£550** |
+| **DVSA AutoBook Pro GUI** | Slot search and reservation, manual portal login and navigation, manual captcha, no Error 15 handling | **£600** |
+| **DVSA AutoBook Prro** | Automated portal access, login, navigation, slot search, slot reservation, notifications, captcha handling, Error 15 handling, auto session handling, proxy handling, and advanced bot controls | **£2,500** |
+
+### ✅ Included With Every Option
+
+- Full source code
+- Build file included
+- Lifetime access to the tool you purchase
+- Setup guidance and installation help
+- Ongoing support for activation and usage questions
+- Private delivery and direct contact with the seller
+
+> **Discounts available:** 20% off for a limited-time purchase window, or 50% off for bulk orders of 5 licenses or more.
+
 ### 🛡️ Human-in-the-Loop Automation
 
-Unlike dangerous bots that get blocked, DVSA AutoBook uses a **sophisticated approach**:
+Unlike generic bots that rely on noisy automation, DVSA AutoBook uses a controlled workflow:
 
 | Feature | How It Works |
 |---------|--------------|
 | **🖱️ Human-Like Mouse Movement** | Bezier curve trajectories that mimic natural hand movements |
 | **⏱️ Random Timing Delays** | Variable pauses between actions (no robotic patterns) |
 | **👁️ Visual Page Detection** | Template matching to verify page state before acting |
-| **🧩 Manual CAPTCHA** | You solve CAPTCHAs yourself — the app alerts you when needed |
+| **🧩 Manual CAPTCHA** | You solve CAPTCHAs yourself in the first two options, or use the advanced handling in Prro |
 | **🎯 Smart Click Targeting** | Finds UI elements visually, not by scraping HTML |
 
-> **Result:** The system sees a human user, not a bot. No WAF triggers. No account bans.
+> **Result:** You get the right level of automation for your workflow, from lightweight assistance to a more advanced all-in-one system.
 
 ---
 
@@ -184,6 +209,7 @@ Unlike dangerous bots that get blocked, DVSA AutoBook uses a **sophisticated app
   <img src="assets/screenshot-found.png" alt="Slot Found" width="700">
   <br>
   <em>🎉 Slot Found & Reserved!</em>
+</p>
 
 
 ## 💻 Installation
@@ -243,51 +269,52 @@ DVSA AutoBook uses **offline license validation**. Your credentials work without
 <tr>
 <td align="center" width="50%">
 
-### 🎯 Single User License
+### 🌐 DVSA AutoBook Chrom Extension
 
-<h1>£2,500</h1>
+<h1>£550</h1>
 
-**One-Time Payment**
-
----
-
-✅ Full Application Access  
-✅ macOS & Windows Versions  
-✅ 1 Year Free Updates  
-✅ 1 Year Priority Support  
-✅ Single Device Activation  
-❌ Source Code Access  
-❌ Reseller Rights  
+**Slot search and reservation with manual captcha handling**
 
 ---
 
-<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20-%20Single%20License">
-  <img src="https://img.shields.io/badge/Purchase-Single%20License-1C4A90?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Single License">
+✅ Slot search and reservation automatically  
+✅ Manual captcha handling  
+✅ No Error 15 handling  
+✅ Full source code  
+✅ Build file included  
+✅ Lifetime access  
+✅ Setup guidance and support  
+
+---
+
+<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20Chrom%20Extension">
+  <img src="https://img.shields.io/badge/Purchase-Chrom%20Extension-1C4A90?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Chrom Extension">
 </a>
 
 </td>
 <td align="center" width="50%">
 
-### 🏢 Reseller License
+### 🖥️ DVSA AutoBook Pro GUI
 
-<h1>£10,500</h1>
+<h1>£600</h1>
 
-**Lifetime Access**
-
----
-
-✅ Full Application Access  
-✅ macOS & Windows Versions  
-✅ **Lifetime Updates**  
-✅ **Lifetime Priority Support**  
-✅ **Unlimited Activations**  
-✅ **Full Source Code**  
-✅ **Reseller Rights**  
+**GUI-based booking with manual portal login and navigation**
 
 ---
 
-<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20-%20Reseller%20License">
-  <img src="https://img.shields.io/badge/Purchase-Reseller%20License-22c55e?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Reseller License">
+✅ Slot search and reservation  
+✅ Manual portal login and navigation  
+✅ Manual captcha handling  
+✅ No Error 15 handling  
+✅ Full source code  
+✅ Build file included  
+✅ Lifetime access  
+✅ Setup guidance and support  
+
+---
+
+<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20Pro%20GUI">
+  <img src="https://img.shields.io/badge/Purchase-Pro%20GUI-22c55e?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Pro GUI">
 </a>
 
 </td>
@@ -297,6 +324,43 @@ DVSA AutoBook uses **offline license validation**. Your credentials work without
 <p align="center">
   <em>💳 Payment via Bank Transfer or Cryptocurrency</em>
 </p>
+
+<p align="center">
+  <strong>Limited-time offer:</strong> 20% discount available now, or 50% discount for bulk orders of 5 licenses or more.
+</p>
+
+<table align="center">
+<tr>
+<td align="center" colspan="2">
+
+### 🚀 DVSA AutoBook Prro
+
+<h1>£2,500</h1>
+
+**Most advanced bot with end-to-end automation**
+
+---
+
+✅ Automated portal access, login, and navigation  
+✅ Slot search and slot reservation  
+✅ Notifications and captcha handling  
+✅ Error 15 handling  
+✅ Auto session handling  
+✅ Proxy handling  
+✅ Full source code  
+✅ Build file included  
+✅ Lifetime access  
+✅ Setup guidance and support  
+
+---
+
+<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20Prro">
+  <img src="https://img.shields.io/badge/Purchase-Prro-16a34a?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Prro">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -362,8 +426,9 @@ DVSA AutoBook continuously monitors. Cancellation slots appear randomly — the 
 <details>
 <summary><strong>Can I use this on multiple computers?</strong></summary>
 
-- **Single License:** 1 device
-- **Reseller License:** Unlimited devices
+- **Chrom Extension:** 1 device
+- **Pro GUI:** 1 device
+- **Prro:** Unlimited activations based on the agreement
 
 </details>
 
@@ -393,7 +458,7 @@ No. Just download, install, activate, and click Start. It's that simple.
   <em>Real-time support</em>
 </td>
 <td align="center">
-  <h3>� GitHub</h3>
+  <h3>🐙 GitHub</h3>
   <a href="https://github.com/engrhammadkhurshid">@engrhammadkhurshid</a>
   <br>
   <em>Issues & Updates</em>
