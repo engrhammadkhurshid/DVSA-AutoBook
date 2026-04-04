@@ -35,6 +35,38 @@
 
 ---
 
+## 🎉 LIMITED TIME OFFER — APRIL 2026
+
+<div align="center">
+
+### 🔥 **20% OFF ALL BOTS THIS MONTH** 🔥
+
+<h2 style="color: #ff6b6b; font-size: 2.5em; margin: 10px 0;">💰 SAVE NOW!</h2>
+
+#### Choose Your Discount:
+
+| Discount | Offer |
+|----------|-------|
+| **20% OFF** | All DVSA AutoBook tools this month only |
+| **50% OFF** | Purchase 5+ licenses (bulk orders) |
+| **Reseller License** | Full source code, lifetime updates, unlimited activations — now £5,250 (was £10,500) |
+
+<p style="font-size: 1.1em; font-weight: bold; color: #2ecc71;">⏰ Offer Valid: April 2026 Only</p>
+
+#### 🎯 Ready to Get Started?
+
+<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20-%20April%202026%20Offer">
+  <img src="https://img.shields.io/badge/Claim%20Your%20Discount%20Now-GET%2020%25%20OFF-ff6b6b?style=for-the-badge&logo=fire" alt="Claim Discount">
+</a>
+
+**📧 Email:** engr.hammadkhurshid@gmail.com  
+**💬 WhatsApp:** +92 336 7126719  
+**⏱️ Limited slots available — contact now!**
+
+</div>
+
+---
+
 <p align="center">
   <img src="assets/demo.gif" alt="DVSA AutoBook Demo" width="800">
 </p>
