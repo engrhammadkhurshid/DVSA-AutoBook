@@ -5,11 +5,12 @@
 <h1 align="center">🚗 DVSA AutoBook</h1>
 
 <p align="center">
-  <strong>Intelligent Driving Test Booking Automation for UK DVSA</strong>
+  <strong>Intelligent UK Driving Test Booking Bot & DVSA Cancellation Checker (2026)</strong><br>
+  <em>The premier automated driving test booking UK software to find and secure earlier slots fast.</em>
 </p>
 
 <p align="center">
-  <strong>Three purchase options available: DVSA AutoBook Chrom Extension, DVSA AutoBook Pro GUI, and DVSA AutoBook Prro.</strong>
+  <strong>🚨 UPDATED TO NEW STUDENT PORTAL AFTER 9 JUNE'S UPDATES BY DVSA! 🚨</strong>
 </p>
 
 <p align="center">
@@ -35,7 +36,7 @@
 
 ---
 
-## 🎉 LIMITED TIME OFFER — APRIL 2026
+## 🎉 LIMITED TIME OFFER — AUGUST 2026
 
 <div align="center">
 
@@ -51,11 +52,11 @@
 | **50% OFF** | Purchase 5+ licenses (bulk orders) |
 | **Reseller License** | Full source code, lifetime updates, unlimited activations — now £5,250 (was £10,500) |
 
-<p style="font-size: 1.1em; font-weight: bold; color: #2ecc71;">⏰ Offer Valid: April 2026 Only</p>
+<p style="font-size: 1.1em; font-weight: bold; color: #2ecc71;">⏰ Offer Valid: August 2026 Only</p>
 
 #### 🎯 Ready to Get Started?
 
-<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20-%20April%202026%20Offer">
+<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20-%20August%202026%20Offer">
   <img src="https://img.shields.io/badge/Claim%20Your%20Discount%20Now-GET%2020%25%20OFF-ff6b6b?style=for-the-badge&logo=fire" alt="Claim Discount">
 </a>
 
@@ -82,13 +83,13 @@ Booking a UK driving test through the DVSA website is **extremely frustrating**:
 - ❌ **Slow Manual Process** — By the time you click, the slot is gone
 - ❌ **Time Wasted** — Hours spent refreshing pages with no results
 
-> *"I spent 3 weeks refreshing the DVSA website every hour. DVSA AutoBook found me a slot in 2 days."*
+> *"I spent 3 weeks refreshing the DVSA website every hour. The DVSA AutoBook cancellation bot 2026 found me a slot in 2 days."*
 
 ---
 
 ## ✨ The Solution
 
-**DVSA AutoBook** is an intelligent automation tool that monitors the DVSA booking system and **instantly reserves available slots** — all while mimicking natural human behaviour.
+**DVSA AutoBook** is an intelligent automated driving test booking UK tool. It serves as an ultra-fast DVSA test cancellation checker that monitors the DVSA booking system and **instantly reserves available slots** — all while mimicking natural human behaviour to protect your account.
 
 ### 🧭 Product Lineup
 
@@ -96,9 +97,8 @@ Choose the version that matches the level of automation you need:
 
 | Product | What It Includes | Price |
 |---------|-------------------|-------|
-| **DVSA AutoBook Chrom Extension** | Slot search and reservation automatically, manual captcha handling, no Error 15 handling | **£550** |
-| **DVSA AutoBook Pro GUI** | Slot search and reservation, manual portal login and navigation, manual captcha, no Error 15 handling | **£600** |
-| **DVSA AutoBook Prro** | Automated portal access, login, navigation, slot search, slot reservation, notifications, captcha handling, Error 15 handling, auto session handling, proxy handling, and advanced bot controls | **£2,500** |
+| **DVSA AutoBook Pro** | Automated portal access, login, navigation, slot search, slot reservation, notifications, captcha handling, Error 15 handling, auto session handling, proxy handling, and advanced bot controls | **£2,500** |
+| **Custom Enterprise** | Full license, support, updates, and permission to boot and sell slots | **Contact Us** |
 
 ### ✅ Included With Every Option
 
@@ -120,7 +120,7 @@ Unlike generic bots that rely on noisy automation, DVSA AutoBook uses a controll
 | **🖱️ Human-Like Mouse Movement** | Bezier curve trajectories that mimic natural hand movements |
 | **⏱️ Random Timing Delays** | Variable pauses between actions (no robotic patterns) |
 | **👁️ Visual Page Detection** | Template matching to verify page state before acting |
-| **🧩 Manual CAPTCHA** | You solve CAPTCHAs yourself in the first two options, or use the advanced handling in Prro |
+| **🧩 Smart CAPTCHA Handling** | Advanced and secure CAPTCHA notification and handling included in the Pro version |
 | **🎯 Smart Click Targeting** | Finds UI elements visually, not by scraping HTML |
 
 > **Result:** You get the right level of automation for your workflow, from lightweight assistance to a more advanced all-in-one system.
@@ -301,75 +301,11 @@ DVSA AutoBook uses **offline license validation**. Your credentials work without
 <tr>
 <td align="center" width="50%">
 
-### 🌐 DVSA AutoBook Chrom Extension
-
-<h1>£550</h1>
-
-**Slot search and reservation with manual captcha handling**
-
----
-
-✅ Slot search and reservation automatically  
-✅ Manual captcha handling  
-✅ No Error 15 handling  
-✅ Full source code  
-✅ Build file included  
-✅ Lifetime access  
-✅ Setup guidance and support  
-
----
-
-<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20Chrom%20Extension">
-  <img src="https://img.shields.io/badge/Purchase-Chrom%20Extension-1C4A90?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Chrom Extension">
-</a>
-
-</td>
-<td align="center" width="50%">
-
-### 🖥️ DVSA AutoBook Pro GUI
-
-<h1>£600</h1>
-
-**GUI-based booking with manual portal login and navigation**
-
----
-
-✅ Slot search and reservation  
-✅ Manual portal login and navigation  
-✅ Manual captcha handling  
-✅ No Error 15 handling  
-✅ Full source code  
-✅ Build file included  
-✅ Lifetime access  
-✅ Setup guidance and support  
-
----
-
-<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20Pro%20GUI">
-  <img src="https://img.shields.io/badge/Purchase-Pro%20GUI-22c55e?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Pro GUI">
-</a>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <em>💳 Payment via Bank Transfer or Cryptocurrency</em>
-</p>
-
-<p align="center">
-  <strong>Limited-time offer:</strong> 20% discount available now, or 50% discount for bulk orders of 5 licenses or more.
-</p>
-
-<table align="center">
-<tr>
-<td align="center" colspan="2">
-
-### 🚀 DVSA AutoBook Prro
+### 🚀 DVSA AutoBook Pro
 
 <h1>£2,500</h1>
 
-**Most advanced bot with end-to-end automation**
+**Lifetime License with end-to-end automation**
 
 ---
 
@@ -386,13 +322,46 @@ DVSA AutoBook uses **offline license validation**. Your credentials work without
 
 ---
 
-<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20Prro">
-  <img src="https://img.shields.io/badge/Purchase-Prro-16a34a?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Prro">
+<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20Pro">
+  <img src="https://img.shields.io/badge/Purchase-Pro-16a34a?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Pro">
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 🤝 Custom Enterprise Offer
+
+<h1>Contact Us</h1>
+
+**Full License, Support, Updates & Reselling**
+
+---
+
+✅ Everything in Pro  
+✅ Full source code and licensing  
+✅ Priority Support  
+✅ Lifetime updates included  
+✅ Permission to boot and sell slots  
+✅ Custom feature requests  
+✅ White-label options  
+
+---
+
+<a href="mailto:engr.hammadkhurshid@gmail.com?subject=DVSA%20AutoBook%20Custom%20Offer">
+  <img src="https://img.shields.io/badge/Contact-Custom%20Offer-1C4A90?style=for-the-badge&logo=mail" alt="Contact for Custom Offer">
 </a>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <em>💳 Payment via Bank Transfer or Cryptocurrency</em>
+</p>
+
+<p align="center">
+  <strong>Limited-time offer:</strong> 20% discount available now, or 50% discount for bulk orders of 5 licenses or more.
+</p>
 
 ---
 
@@ -437,14 +406,9 @@ The system sees a normal user, not a bot.
 </details>
 
 <details>
-<summary><strong>Why is CAPTCHA manual?</strong></summary>
+<summary><strong>How does CAPTCHA handling work?</strong></summary>
 
-This is a **feature, not a limitation**. Automated CAPTCHA solving:
-1. Is detectable and leads to bans
-2. Often fails on complex CAPTCHAs
-3. Adds legal/ethical concerns
-
-By keeping CAPTCHA manual, we ensure you're never flagged as a bot.
+DVSA AutoBook features a smart handling approach: it can alert you for manual CAPTCHA solving or utilize its advanced handling capabilities, depending on your configuration. This ensures that your fast driving test booking app remains undetectable while keeping your account secure.
 
 </details>
 
@@ -458,9 +422,8 @@ DVSA AutoBook continuously monitors. Cancellation slots appear randomly — the 
 <details>
 <summary><strong>Can I use this on multiple computers?</strong></summary>
 
-- **Chrom Extension:** 1 device
-- **Pro GUI:** 1 device
-- **Prro:** Unlimited activations based on the agreement
+- **Pro:** 1 device
+- **Custom Enterprise:** Unlimited activations based on the agreement
 
 </details>
 
@@ -502,6 +465,11 @@ No. Just download, install, activate, and click Start. It's that simple.
 
 ## 📋 Changelog
 
+### v1.1.0 (August 2026)
+- 🚀 Updated core engine for the new DVSA student portal updates (post-June 9th)
+- 🚀 Enhanced UK driving test booking bot speed and reliability
+- 🚀 Improved DVSA cancellation checker algorithms
+
 ### v1.0.0 (November 2025)
 - 🎉 Initial release
 - ✨ Human-like mouse movement with Bezier curves
@@ -535,5 +503,5 @@ By using this software, you agree to use it responsibly and in compliance with a
 </p>
 
 <p align="center">
-  <em>© 2025 DVSA AutoBook. All Rights Reserved.</em>
+  <em>© 2026 DVSA AutoBook. All Rights Reserved.</em>
 </p>
